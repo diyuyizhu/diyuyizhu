@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到;diyuyizhu;的github)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到diyuyizhu的github;有些答案不必等)
 
 <!--
 **diyuyizhu/diyuyizhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
