@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![visitors](https://github.com/diyuyizhu/diyuyizhu/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 ​
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diyuyizhu)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diyuyizhu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
