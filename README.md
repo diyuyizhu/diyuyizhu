@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 
 [![visitors](https://github.com/diyuyizhu/diyuyizhu/blob/main/profile-3d-contrib/profile-night-rainbow.svg))](https://github.com/diyuyizhu/diyuyizhu/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 ​
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyuyizhu)
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diyuyizhu)
