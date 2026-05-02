@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=diyuyizhu&left_color=green&right_color=red)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyuyizhu)
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
