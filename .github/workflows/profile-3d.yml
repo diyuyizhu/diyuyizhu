@@ -10,16 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # 升级到 v4，更好用
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      
       - name: Commit & Push
         run: |
-          git pull
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          # 配置 git 用户信息
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 拉取远程最新变更（防止 push 被拒绝）
+          git pull --rebase origin main || echo "pull failed, continuing"
+          
+          # 添加所有变更
           git add -A .
-          git commit -m "generated"
-          git push
+          
+          # 尝试提交，如果没有变更则不失败
+          git commit -m "generated" || echo "No changes to commit"
+          
+          # 推送变更（没有提交时 push 也会成功）
+          git push origin main
