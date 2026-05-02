@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diyuyizhu/diyuyizhu/output/github-contribution-grid-snake.svg">
 </picture>
 
-profile-3d-contrib/profile-green-animate.svg​
+[![visitors](https://github.com/diyuyizhu/diyuyizhu/blob/main/profile-3d-contrib/profile-night-rainbow.svg))](https://github.com/diyuyizhu/diyuyizhu/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+​
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diyuyizhu&left_color=green&right_color=red)
 
