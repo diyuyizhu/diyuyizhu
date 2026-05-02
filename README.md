@@ -21,9 +21,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diyuyizhu/diyuyizhu/output/github-contribution-grid-snake.svg">
 </picture>
 
-remote: Permission to mthsBelloni/mthsBelloni.git denied to github-actions[bot].
-fatal: unable to access 'https://github.com/diyuyizhu/diyuyizhu/': The requested URL returned error: 403
-Error: Process completed with exit code 128.
+profile-3d-contrib/profile-green-animate.svg​
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=diyuyizhu&left_color=green&right_color=red)
 
